@@ -38,7 +38,7 @@
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 omaha
+                "name": "relay 1 omaha",
                 "type": "relay",
                 "key": "8ea5662d9edf7b75ceafa833ff4816be"
             },
