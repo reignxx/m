@@ -1,16 +1,16 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/reignxx/m/blob/master/halostakeclean_small.png",
-        "url_png_logo": "https://github.com/reignxx/m/blob/master/halostakeclean_64px.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/reignxx/m/master/halostakeclean_small.png",
+        "url_png_logo": "https://raw.githubusercontent.com/reignxx/m/master/halostakeclean_64px.png",
         "location": "Omaha, Nebraska",
         "social": {
             "twitter_handle": "",
-            "telegram_handle": "HALOSTAKEPOOL",
+            "telegram_handle": "https://t.me/HALOSTAKEPOOL",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
+            "discord_handle": "https://discord.gg/U93B6XCr6Z",
+            "github_handle": "reignxx"
         },
         "company": {
             "name": "",
@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "",
-            "server": "Raspberry Pi Cluster Hosted on dedicated connection.",
+            "server": "Raspberry Pi Cluster hosted on dedicated connection. Super fast 99.9% uptime.",
             "company": ""
         }
     },
@@ -30,9 +30,23 @@
         "0": "96155e7994343ae2b5da83d895cbab3c21838f95c3f971c8e20ee3c8"
     },
     "when-satured-then-recommend": {
-        "0": ""
+        "0": "96155e7994343ae2b5da83d895cbab3c21838f95c3f971c8e20ee3c8"
     },
     "telegram-admin-handle": {
-        "0": ""
+        "0": "Chris_Rain"
     }
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1 omaha
+                "type": "relay",
+                "key": "8ea5662d9edf7b75ceafa833ff4816be"
+            },
+            "1": {
+                "name": "core",
+                "type": "bp",
+                "key": "e77c6fbd3b4937aa38bd165d2ba8365f"
+            }
+        }
+    }    
 }
